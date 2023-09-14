@@ -6,7 +6,7 @@ ip a
 
 ```
 
-### Add Your Interface Name (Modify Code)
+### Add Your Interface Name (Modify The Code)
 
 #### e.g. "eno1"
 
